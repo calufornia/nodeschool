@@ -1,0 +1,13 @@
+{
+  "name": "@justin/justin",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {},
+  "repository": "https://github.com/calufornia/how-to-npm"
+}
